@@ -1,0 +1,8 @@
+**/.terraform/*
+
+*.tfstate
+*.tfstate.*
+.terraform.*
+*/.terraform*
+*/vuln-image.tar
+*vuln-image.tar
